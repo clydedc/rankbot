@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/Malicord/Malicord?style=flat">
-<img src="https://img.shields.io/github/stars/Malicord/Malicord?color=brightgreen">
-<img src="https://img.shields.io/github/forks/Malicord/Malicord?color=brightgreen">
+<img src="https://img.shields.io/github/last-commit/clydedc/rankbot?style=flat">
+<img src="https://img.shields.io/github/stars/clydedc/rankbot?color=brightgreen">
+<img src="https://img.shields.io/github/forks/clydedc/rankbot?color=brightgreen">
 </p>
 
 
