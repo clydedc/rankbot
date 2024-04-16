@@ -3,10 +3,10 @@
 #
 
 <h1 align="center">
-  Malicord
+  Clyde
 </h1>
 <p align="center">
-  By clyde discord : https://discord.gg/fivesearch
+  By clyde discord : https://discord.gg/6txQPb3zqC
  </p>
 <p align="center"> 
   <kbd>
